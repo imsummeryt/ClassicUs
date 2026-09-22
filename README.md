@@ -10,7 +10,7 @@ ClassicUs is a project that aims to refine the classic, old feeling of Among Us 
 The game allows you to play online with others and there is NO timer of Lobby closing down due to inactivity.
 
 
-# ...up to 100 players in a lobby??????
+# ...up to 200 players in a lobby??????
 
 Speaking of playing online with others, you can play up to *100 players!*
 ![CreateGame](https://github.com/user-attachments/assets/21d8e459-0cd5-440f-b13f-b28e3b88e061)
@@ -43,20 +43,20 @@ for iOS users, sorry but you gotta wait a bit until we find a workaround due to 
 
 # Where do I report issues & bugs??
 
-you can report issues in our official discord server! [AUAD Discord](https://discord.gg/auad) or create issue comments here on this github repo.
+You can report issues in our official Discord server! [AUAD Discord](https://discord.gg/auad) or create issue comments here on this Github repository.
 
-# Will the game have any quickchat restrictions or reporting? How will I report cheaters & hackers?
+# Will the game have any Quick-Chat restrictions or reporting? How will I report Cheaters & Hackers?
 
-The game will have no quickchat restrictions or age verifications, but that does not mean that you cannot be banned. You can **still be banned from the game.** Obey the TOS and you'll be fine, you'll see it when you boot the game up for the first time or right in the options menu: ![TOS](https://github.com/user-attachments/assets/3c2557b2-662d-4ef5-9f71-4d3174c06b1e) You can still report people in the kick button menu:<img width="1355" height="628" alt="Classic_Us_mfm6by1HwW" src="https://github.com/user-attachments/assets/7c4771b1-b5bf-43f9-afaf-f37c9718f769" /> <img width="2306" height="1335" alt="Classic_Us_uQzGc8snxE" src="https://github.com/user-attachments/assets/e2877e89-3d4f-42b7-a808-71671119560a" /> that will be sent to staffs to look at:<img width="1849" height="816" alt="Classic_Us_bRvb114YRh" src="https://github.com/user-attachments/assets/3d1d6702-25ba-4713-808f-4bcb877f922d" />& staffs can have the immunity to not get banned & kicked off of a lobby and ban a player in realtime once found the TOS breakers with hacking, cheating or bad behaviour, please behave as staffs have the rights to be immune to any kick & bans.
+The game will have no quick chat restrictions or age verifications, but that does not mean that you cannot be banned. You can **still be banned from the game.** Obey the TOS and you'll be fine, you'll see it when you boot the game up for the first time or right in the options menu: ![TOS](https://github.com/user-attachments/assets/3c2557b2-662d-4ef5-9f71-4d3174c06b1e) You can still report people in the kick button menu:<img width="1355" height="628" alt="Classic_Us_mfm6by1HwW" src="https://github.com/user-attachments/assets/7c4771b1-b5bf-43f9-afaf-f37c9718f769" /> <img width="2306" height="1335" alt="Classic_Us_uQzGc8snxE" src="https://github.com/user-attachments/assets/e2877e89-3d4f-42b7-a808-71671119560a" /> that will be sent to staffs to look at:<img width="1849" height="816" alt="Classic_Us_bRvb114YRh" src="https://github.com/user-attachments/assets/3d1d6702-25ba-4713-808f-4bcb877f922d" />& Staff members can have the immunity to not get banned or kicked off of a lobby and can ban a player in realtime once found the TOS breakers with hacking, cheating or bad behaviour, please behave as Staff have the rights to be immune to any kick & bans.
 
 
 # ⚠️ Disclaimer
 
-Classic Us is in any shape of form not officially affiliated or connected with the main Among Us and therefore it is just a fan-game for the people that loves this type of fan-projects. Innersloth LLC reserves the right to tell us to change things up or tell us to change the route we go on for the game and this is made for the love of OG Among Us & and for fun.
+Classic Us is in any shape of form not officially affiliated or connected with the main Among Us and therefore it is just a fan-game for the people that loves this type of fan-projects. Innersloth LLC reserves the right to tell us to change things up or tell us to change the route we go on for the gameOG and this is made for the love of OG Among Us & and for fun.
 
 Thanks for reading! I hope you understood!
 
-as always you should always check our social media out:
+As always you should always check our social media out:
 [The AUAD Website](https://auantidater.com/)
 [AUAD Discord Server](https://discord.gg/auad)
 [Our Youtube Channel](https://www.youtube.com/@RealAUAD)
